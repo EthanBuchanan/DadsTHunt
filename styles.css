@@ -1,0 +1,395 @@
+all {
+    display: block;
+    width: 1000px;
+    height: 1000px;
+    margin: 100px;
+    outline: black 1px solid;
+
+    word-wrap: normal;
+    
+    padding-top: 205px;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+explanation {
+    display: absolute;
+}
+
+
+
+
+.Ursidae {
+    font-size: 150%;
+}
+
+.Ailuropoda {
+    font-size: 110%;
+}
+
+.Ailuropoda_Melanoleuca {
+    font-size: 80%;
+}
+
+.Ailuropoda_Melanoleuca:first-child {
+    margin-left: 95px;
+}
+
+.Ursus {
+    font-size: 130%;
+}
+
+.Ursus_Americanus {
+    font-size: 95%;
+}
+
+.Ursus_Americanus > span:nth-child(1) {
+    margin-left: 72px;
+    
+}
+
+.Ursus_Americanus > span:nth-child(2) {
+    margin-left: 41px;
+    
+}
+
+.Ursus_Americanus > span:nth-child(3) {
+    margin-left: 110px;
+}
+
+.Ursus_Americanus > span:nth-child(4) {
+    margin-left: 145px;  
+}
+
+.Ursus_Americanus > span:nth-child(6) {
+    margin-left: 95px;  
+}
+.Ursus_Americanus > span:nth-child(7) {
+    margin-left: 25px;  
+}
+.Ursus_Americanus > span:nth-child(8) {
+    margin-left: 2px;  
+}
+
+.Ursus_Maritimus {
+    font-size: 105%;
+}
+
+.Ursus_Maritimus > span:nth-child(1) {
+    margin-left: 0px; 
+}
+.Ursus_Maritimus > span:nth-child(2) {
+    margin-left: 34px; 
+}
+.Ursus_Maritimus > span:nth-child(3) {
+    margin-left: 77px; 
+}
+.Ursus_Maritimus > span:nth-child(4) {
+    margin-left: 130px; 
+}
+.Ursus_Maritimus > span:nth-child(5) {
+    margin-left: 15px; 
+}
+
+.Hominidae {
+    font-size: 110%;
+}
+
+.Gorilla {
+    font-size: 90%;
+}
+
+.Gorilla_Gorilla {
+    font-size: 110%;
+}
+
+.Gorilla_Gorilla > span:nth-child(2) {margin-left: 2px;}
+.Gorilla_Gorilla > span:nth-child(4) {margin-left: 20px;}
+
+.Homo {
+    font-size: 95%;
+}
+
+.Homo_Sapien {
+    font-size: 110%;
+}
+
+.Homo_Sapien > span:nth-child(2) {margin-left: 14px;}
+.Homo_Sapien > span:nth-child(4) {margin-left: 95px;}
+
+.Pan {
+    font-size: 50%;
+}
+
+.Pan_Troglodytes {
+    font-size: 200%;
+}
+
+.Pan_Troglodytes > span:nth-child(2) {margin-left: 18px;}
+.Pan_Troglodytes > span:nth-child(3) {margin-left: 30px;}
+.Pan_Troglodytes > span:nth-child(4) {margin-left: 5px;}
+.Pan_Troglodytes > span:nth-child(5) {margin-left: 22px;}
+.Pan_Troglodytes > span:nth-child(6) {margin-left: 10px;}
+.Pan_Troglodytes > span:nth-child(7) {margin-left: 13px;}
+
+.Trochilidae {
+    font-size: 80%;
+}
+
+.Topaza {
+    font-size: 90%;
+}
+
+.Topaza_Pella {
+    font-size: 110%;
+}
+
+.Topaza_Pella > span:nth-child(1) {margin-left: 0px;}
+.Topaza_Pella > span:nth-child(2) {margin-left: 123px;}
+.Topaza_Pella > span:nth-child(3) {margin-left: 70px;}
+.Topaza_Pella > span:nth-child(4) {margin-left: 10px;}
+.Topaza_Pella > span:nth-child(5) {margin-left: 23px;}
+.Topaza_Pella > span:nth-child(6) {margin-left: 50px;}
+.Topaza_Pella > span:nth-child(7) {margin-left: 22px;}
+.Topaza_Pella > span:nth-child(8) {margin-left: 16px; margin-right: 95px; margin-bottom: 100px;}
+.Topaza_Pella > span:nth-child(13) {margin-left: 206px;}
+.Topaza_Pella > span:nth-child(14) {margin-left: 18px; margin-right: 755px;}
+.Topaza_Pella > span:nth-child(15) {margin-left: 197px;}
+.Topaza_Pella > span:nth-child(16) {margin-left: 8px;}
+.Topaza_Pella > span:nth-child(17) {margin-left: 8px;}
+
+
+
+.Anathracothorax {
+    font-size: 135%;
+}
+
+.Anathoracothorax_Dominicus {
+    font-size: 95%;
+}
+
+.Anathoracothorax_Dominicus > span:nth-child(1) {margin-left: 23px;}
+.Anathoracothorax_Dominicus > span:nth-child(2) {margin-left: 127px;}
+.Anathoracothorax_Dominicus > span:nth-child(3) {margin-left: 17px;}
+.Anathoracothorax_Dominicus > span:nth-child(4) {margin-left: 6px;}
+.Anathoracothorax_Dominicus > span:nth-child(5) {margin-left: 35px;}
+.Anathoracothorax_Dominicus > span:nth-child(6) {margin-left: 25px;}
+.Anathoracothorax_Dominicus > span:nth-child(7) {margin-left: 8px;}
+.Anathoracothorax_Dominicus > span:nth-child(8) {margin-left: 12px; margin-right: 50px;}
+.Anathoracothorax_Dominicus > span:nth-child(9) {margin-left: 95px;}
+.Anathoracothorax_Dominicus > span:nth-child(10) {margin-left: 42px;}
+.Anathoracothorax_Dominicus > span:nth-child(11) {margin-left: 9px;}
+.Anathoracothorax_Dominicus > span:nth-child(12) {margin-left: 50px;}
+.Anathoracothorax_Dominicus > span:nth-child(13) {margin-left: 27px;}
+.Anathoracothorax_Dominicus > span:nth-child(14) {margin-left: 14px;}
+.Anathoracothorax_Dominicus > span:nth-child(15) {margin-left: 17px;}
+.Anathoracothorax_Dominicus > span:nth-child(16) {margin-left: 24px;}
+
+
+.Anathoracothorax_Aurulentus {
+    font-size: 105%;
+}
+
+.Anathoracothorax_Aurulentus > span:nth-child(1) {margin-left: 19px;}
+.Anathoracothorax_Aurulentus > span:nth-child(2) {margin-left: 135px;}
+.Anathoracothorax_Aurulentus > span:nth-child(3) {margin-left: 23px;}
+.Anathoracothorax_Aurulentus > span:nth-child(4) {margin-left: 60px;}
+.Anathoracothorax_Aurulentus > span:nth-child(5) {margin-left: 6px;}
+.Anathoracothorax_Aurulentus > span:nth-child(6) {margin-left: 25px;}
+.Anathoracothorax_Aurulentus > span:nth-child(7) {margin-left: 20px;}
+.Anathoracothorax_Aurulentus > span:nth-child(8) {margin-left: 5px; margin-right: 50px;}
+.Anathoracothorax_Aurulentus > span:nth-child(9) {margin-left: 96px;}
+.Anathoracothorax_Aurulentus > span:nth-child(10) {margin-left: 40px;}
+.Anathoracothorax_Aurulentus > span:nth-child(11) {margin-left: 2px;}
+.Anathoracothorax_Aurulentus > span:nth-child(12) {margin-left: 8px;}
+.Anathoracothorax_Aurulentus > span:nth-child(13) {margin-left: 25px;}
+.Anathoracothorax_Aurulentus > span:nth-child(14) {margin-left: 10px;}
+.Anathoracothorax_Aurulentus > span:nth-child(15) {margin-left: 13px;}
+.Anathoracothorax_Aurulentus > span:nth-child(16) {margin-left: 26px;}
+.Anathoracothorax_Aurulentus > span:nth-child(17) {margin-left: 8px;}
+
+
+
+.Heliothryx {
+    font-size: 105%;
+}
+
+.Heliothtyx_Auritus {
+    font-size: 120%;
+}
+
+.Heliothtyx_Auritus > span:nth-child(1) {margin-left: 10px;}
+.Heliothtyx_Auritus > span:nth-child(2) {margin-left: 24px;}
+.Heliothtyx_Auritus > span:nth-child(3) {margin-left: 126px;}
+.Heliothtyx_Auritus > span:nth-child(4) {margin-left: 52px;}
+.Heliothtyx_Auritus > span:nth-child(5) {margin-left: 8px;}
+.Heliothtyx_Auritus > span:nth-child(6) {margin-left: 25px;}
+.Heliothtyx_Auritus > span:nth-child(7) {margin-left: 7px;}
+.Heliothtyx_Auritus > span:nth-child(8) {margin-left: 37px;}
+.Heliothtyx_Auritus > span:nth-child(9) {margin-left: 30px;}
+.Heliothtyx_Auritus > span:nth-child(10) {margin-left: 10px;}
+.Heliothtyx_Auritus > span:nth-child(11) {margin-left: 15px; margin-right: 100px;}
+.Heliothtyx_Auritus > span:nth-child(12) {margin-left: 98px;}
+.Heliothtyx_Auritus > span:nth-child(13) {margin-left: 26px;}
+.Heliothtyx_Auritus > span:nth-child(14) {margin-left: 14px;}
+.Heliothtyx_Auritus > span:nth-child(15) {margin-left: 25px;}
+.Heliothtyx_Auritus > span:nth-child(16) {margin-left: 12px;}
+.Heliothtyx_Auritus > span:nth-child(17) {margin-left: 15px;}
+.Heliothtyx_Auritus > span:nth-child(18) {margin-left: 27px;}
+.Heliothtyx_Auritus > span:nth-child(19) {margin-left: 18px;}
+
+
+.Spheniscidae {
+    font-size: 110%;
+}
+
+.Aptenodytes {
+    font-size: 116%;
+}
+
+.Aptenodytes_Patagonicus {
+    font-size: 105%;
+}
+
+.Aptenodytes_Patagonicus > span:nth-child(1) {margin-left: 202px;}
+.Aptenodytes_Patagonicus > span:nth-child(2) {margin-left: 11px;}
+.Aptenodytes_Patagonicus > span:nth-child(3) {margin-left: 23px;}
+.Aptenodytes_Patagonicus > span:nth-child(4) {margin-left: 7px; margin-right: 650px;}
+.Aptenodytes_Patagonicus > span:nth-child(5) {margin-left: 202px;}
+.Aptenodytes_Patagonicus > span:nth-child(6) {margin-left: 14px;}
+.Aptenodytes_Patagonicus > span:nth-child(7) {margin-left: 22px;}
+.Aptenodytes_Patagonicus > span:nth-child(8) {margin-left: 10px; margin-right: 620px;}
+
+.Aptenodytes_Forsteri {
+    font-size: 120%;
+}
+
+.Aptenodytes_Forsteri > span:nth-child(1) {margin-left: 28px;}
+.Aptenodytes_Forsteri > span:nth-child(2) {margin-left: 0px; margin-right: 610px;}
+.Aptenodytes_Forsteri > span:nth-child(3) {margin-left: 203px;}
+.Aptenodytes_Forsteri > span:nth-child(4) {margin-left: 9px;}
+.Aptenodytes_Forsteri > span:nth-child(5) {margin-left: 20px;}
+.Aptenodytes_Forsteri > span:nth-child(6) {margin-left: 3px;}
+.Aptenodytes_Forsteri > span:nth-child(7) {margin-left: 35px ; margin-right: 620px;}
+.Aptenodytes_Forsteri > span:nth-child(8) {margin-left: 203px;}
+.Aptenodytes_Forsteri > span:nth-child(9) {margin-left: 10px;}
+.Aptenodytes_Forsteri > span:nth-child(10) {margin-left: 17px;}
+.Aptenodytes_Forsteri > span:nth-child(11) {margin-left: 2px; margin-right: 600px;}
+
+.Eudyptes {
+    font-size: 130%;
+}
+
+.Eudyptes_Chrysolophus {
+    font-size: 110%;
+}
+
+.Eudyptes_Chrysolophus > span:nth-child(1) {margin-left: 203px;}
+.Eudyptes_Chrysolophus > span:nth-child(2) {margin-left: 64px;}
+.Eudyptes_Chrysolophus > span:nth-child(3) {margin-left: 12px; margin-right: 600px;}
+.Eudyptes_Chrysolophus > span:nth-child(4) {margin-left: 292px; margin-right: 650px;}
+.Eudyptes_Chrysolophus > span:nth-child(5) {margin-left: 80px;}
+.Eudyptes_Chrysolophus > span:nth-child(6) {margin-left: 20px;}
+.Eudyptes_Chrysolophus > span:nth-child(7) {margin-left: 2px;}
+.Eudyptes_Chrysolophus > span:nth-child(8) {margin-left: 8px;}
+
+.Eudyptes_Robustus {
+    font-size: 95%;
+}
+
+.Eudyptes_Robustus > span:nth-child(2) {margin-left: 15px;}
+.Eudyptes_Robustus > span:nth-child(3) {margin-left: 12px;}
+.Eudyptes_Robustus > span:nth-child(4) {margin-left: 8px;}
+.Eudyptes_Robustus > span:nth-child(5) {margin-left: 0px;}
+.Eudyptes_Robustus > span:nth-child(6) {margin-left: 23px;}
+.Eudyptes_Robustus > span:nth-child(7) {margin-left: 0px; margin-right: 460px;}
+.Eudyptes_Robustus > span:nth-child(8) {margin-left: 80px;}
+.Eudyptes_Robustus > span:nth-child(9) {margin-left: 20px;}
+.Eudyptes_Robustus > span:nth-child(10) {margin-left: 45px;}
+
+
+.Lamnidae {
+    font-size: 130%;
+}
+
+.Carcharodon {
+    font-size: 120%;
+}
+
+.Carcharodon_Carcharias {
+    font-size: 140%;
+}
+
+.Carcharodon_Carcharias > span:nth-child(1) { margin-left: 0px;}
+.Carcharodon_Carcharias > span:nth-child(2) { margin-left: 4px;}
+.Carcharodon_Carcharias > span:nth-child(3) { margin-left: 10px;}
+.Carcharodon_Carcharias > span:nth-child(5) { margin-left: 3px;}
+.Carcharodon_Carcharias > span:nth-child(7) { margin-left: 5px;}
+.Carcharodon_Carcharias > span:nth-child(8) { margin-left: 22px; margin-right: 500px;}
+.Carcharodon_Carcharias > span:nth-child(9) { margin-left: 77px;}
+.Carcharodon_Carcharias > span:nth-child(10) { margin-left: 4px;}
+.Carcharodon_Carcharias > span:nth-child(11) { margin-left: 16px;}
+.Carcharodon_Carcharias > span:nth-child(12) { margin-left: 3px;}
+.Carcharodon_Carcharias > span:nth-child(13) { margin-left: 13px;}
+
+.Isurus {
+    font-weight: 105%;
+}
+
+.Isurus_Oxyrinchus {
+    font-weight: 110%;
+}
+
+.Isurus_Oxyrinchus > span:nth-child(1) { margin-left: 7px;}
+.Isurus_Oxyrinchus > span:nth-child(2) { margin-left: 10px;}
+.Isurus_Oxyrinchus > span:nth-child(3) { margin-left: 11px;}
+.Isurus_Oxyrinchus > span:nth-child(4) { margin-left: 10px;}
+.Isurus_Oxyrinchus > span:nth-child(5) { margin-left: 25px;}
+.Isurus_Oxyrinchus > span:nth-child(6) { margin-left: 6px;}
+.Isurus_Oxyrinchus > span:nth-child(7) { margin-left: 27px; margin-right: 510px;}
+.Isurus_Oxyrinchus > span:nth-child(8) { margin-left: 80px;}
+.Isurus_Oxyrinchus > span:nth-child(9) { margin-left: 10px;}
+.Isurus_Oxyrinchus > span:nth-child(10) { margin-left: 10px;}
+.Isurus_Oxyrinchus > span:nth-child(11) { margin-left: 17px;}
+.Isurus_Oxyrinchus > span:nth-child(12) { margin-left: 5px;}
+.Isurus_Oxyrinchus > span:nth-child(13) { margin-left: 7px;}
+.Isurus_Oxyrinchus > span:nth-child(14) { margin-left: 19px;}
+.Isurus_Oxyrinchus > span:nth-child(15) { margin-left: 12px;}
+.Isurus_Oxyrinchus > span:nth-child(16) { margin-left: 12px;}
+.Isurus_Oxyrinchus > span:nth-child(17) { margin-left: 12px;}
+
+.Carcharhinidae {
+    font-size: 105%;
+}
+
+.Carcharhinus {
+    font-size: 110%;
+}
+
+.Carcharhinus_Albimarginatus {
+    font-size: 120%;
+}
+
+.Carcharhinus_Albimarginatus > span:nth-child(1) { margin-left: 17px;}
+.Carcharhinus_Albimarginatus > span:nth-child(2) { margin-left: 4px;}
+.Carcharhinus_Albimarginatus > span:nth-child(3) { margin-left: 31px; margin-right: 500px;}
+.Carcharhinus_Albimarginatus > span:nth-child(4) { margin-left: 80px;}
+.Carcharhinus_Albimarginatus > span:nth-child(5) { margin-left: 30px;}
+.Carcharhinus_Albimarginatus > span:nth-child(6) { margin-left: 8px;}
+.Carcharhinus_Albimarginatus > span:nth-child(7) { margin-left: 8px;}
+.Carcharhinus_Albimarginatus > span:nth-child(8) { margin-left: 20px;}
+.Carcharhinus_Albimarginatus > span:nth-child(9) { margin-left: 10px;}
+.Carcharhinus_Albimarginatus > span:nth-child(10) { margin-left: 12px;}
+
+.Carcharhinus_Brevipinna {
+    font-size: 110%;
+}
+
+.Carcharhinus_Brevipinna > span:nth-child(1) { margin-left: 8px;}
+.Carcharhinus_Brevipinna > span:nth-child(2) { margin-left: 20px;}
+.Carcharhinus_Brevipinna > span:nth-child(3) { margin-left: 10px; margin-right: 520px;}
+.Carcharhinus_Brevipinna > span:nth-child(4) { margin-left: 80px;}
+.Carcharhinus_Brevipinna > span:nth-child(5) { margin-left: 375px; margin-right: 520px;}
+.Carcharhinus_Brevipinna > span:nth-child(6) { margin-left: 80px;}
+.Carcharhinus_Brevipinna > span:nth-child(7) { margin-left: 340px;}
+
